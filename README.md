@@ -107,7 +107,8 @@ This project demonstrates a complete **end-to-end Data Analytics workflow** desi
 
 ### Power BI Dashboard
 
-<img width="1315" height="717" alt="Dashboard" src="YOUR_IMAGE_LINK_HERE" />
+<img width="1315" height="717" alt="image" src="https://github.com/user-attachments/assets/2d470038-ae6f-41c8-a332-651d7f6634cd" />
+
 
 ---
 
